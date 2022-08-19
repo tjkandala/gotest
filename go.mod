@@ -10,7 +10,7 @@ require (
 	github.com/go-openapi/errors v0.19.7
 	github.com/go-openapi/runtime v0.19.22
 	github.com/go-openapi/strfmt v0.19.5
-	github.com/go-openapi/swag v0.19.9
+	github.com/go-openapi/swag v0.22.3
 	github.com/go-openapi/validate v0.19.11
 	github.com/jordan-wright/email v4.0.1-0.20200917010138-e1c00e156980+incompatible
 	github.com/kat-co/vala v0.0.0-20170210184112-42e1d8b61f12
@@ -23,7 +23,7 @@ require (
 	github.com/rubenv/sql-migrate v0.0.0-20200616145509-8d140a17f351
 	github.com/spf13/cobra v1.0.0
 	github.com/spf13/viper v1.7.1
-	github.com/stretchr/testify v1.6.1
+	github.com/stretchr/testify v1.8.0
 	github.com/volatiletech/null/v8 v8.1.0
 	github.com/volatiletech/randomize v0.0.1
 	github.com/volatiletech/sqlboiler/v4 v4.2.0
